@@ -4,12 +4,6 @@ title Windows-Deffect - Open Source Project
 color 0A
 
 echo.
-echo ██████  ██ ██████  ██ ██ ██ ██████  ██████  
-echo ██   ██ ██ ██   ██ ██ ██ ██ ██   ██ ██   ██ 
-echo ██████  ██ ██   ██ ██ ██ ██ ██   ██ ██████  
-echo ██   ██ ██ ██   ██ ██ ██ ██ ██   ██ ██   ██ 
-echo ██████  ██ ██████  ██ █████ ██████  ██   ██ 
-echo.
 echo 📍 GitHub: https://github.com/PixikDev/Windows-Deffect
 echo ⚠️  Open Source Project - No Viruses!
 echo.
